@@ -1,0 +1,17 @@
+{
+  "name": "markdown2vue-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "highlight.js": "^9.4.0",
+    "loader-utils": "^1.1.0",
+    "markdown-it": "^8.4.0"
+  },
+  "author": "mfylee@163.com",
+  "license": "WTFPL"
+}
